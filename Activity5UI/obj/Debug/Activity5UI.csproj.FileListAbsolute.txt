@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Activity5UI\Activity5UI\bin\Debug\Activity5UI.exe.config
+C:\Users\hp\source\repos\Activity5UI\Activity5UI\bin\Debug\Activity5UI.exe
+C:\Users\hp\source\repos\Activity5UI\Activity5UI\bin\Debug\Activity5UI.pdb
+C:\Users\hp\source\repos\Activity5UI\Activity5UI\obj\Debug\Activity5UI.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Activity5UI\Activity5UI\obj\Debug\Activity5UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Activity5UI\Activity5UI\obj\Debug\Activity5UI.exe
+C:\Users\hp\source\repos\Activity5UI\Activity5UI\obj\Debug\Activity5UI.pdb
+C:\Users\hp\source\repos\Activity5UI\Activity5UI\bin\Debug\Activity5BL.dll
+C:\Users\hp\source\repos\Activity5UI\Activity5UI\bin\Debug\Activity5BL.pdb
+C:\Users\hp\source\repos\Activity5UI\Activity5UI\obj\Debug\Activity5UI.csproj.CopyComplete
